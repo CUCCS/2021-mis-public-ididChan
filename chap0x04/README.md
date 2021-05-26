@@ -4,6 +4,8 @@
 
 - [x] 以WiFi协议为基础的物联网设备 `联网初始化配置` 分析
 
+    *（注：没合适的设备且对 Bluetooth 协议更感兴趣，所以做的是与 Bluetooth 相关的实验）
+
 - [x] 复现并利用 `CVE-2019-12272`
 
 ### 2. 实验环境
@@ -24,6 +26,6 @@
 
 ### 3. 实验过程
 
-- [Report 4.1 - 以WiFi协议为基础的物联网设备 “联网初始化配置” 分析](./report/report0x01.md)
+- [Report 4.1 - 以 Bluetooth 协议为基础的物联网设备 “联网初始化配置” 分析](./report/report0x01.md)
 
 - [Report 4.2 - CVE-2019-12272的复现与利用](./report/report0x02.md)
