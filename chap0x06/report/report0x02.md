@@ -119,7 +119,7 @@
 
             1. 右键单击 `app` -> `New` -> `Image ` -> `Image Asset`，根据需求制定 APP icon
 
-                ![img](../img/new-image-asset.PNG)
+                ![img](../img/new-image-asset.png)
 
             2. 在 `AndroidManifest.xml` 中修改与图标相关的内容
 

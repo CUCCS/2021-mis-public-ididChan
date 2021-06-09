@@ -31,9 +31,9 @@
 
     ![img](../img/shell.PNG)
 
-    ![img](../img/adb-pull.PNG)
+    ![img](../img/adb-pull.png)
 
-    ![img](../img/adb-push.PNG)
+    ![img](../img/adb-push.png)
 
     ![img](../img/adb-install.PNG)
 
