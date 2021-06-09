@@ -2,7 +2,7 @@
 
 ### 1. 实验过程
 
-- **Hello World v1**
+- **Hello World v1** [【VIEW CODE】](../code/HelloWorldV1/)
 
     - 按照 [Android Developers | Create an Android project](https://developer.android.google.cn/training/basics/firstapp) 根据实验要求创建空项目
 
@@ -27,7 +27,7 @@
         
         ![img](../img/misdemo-ui.PNG)
 
-- **Hello World v2**
+- **Hello World v2** [【VIEW CODE】](../code/HelloWorldV2/)
 
     - 使用 [CUC MIS GitBook | Chap0x06](https://c4pr1c3.github.io/cuc-mis/chap0x06/exp.html) 提供的代码对 `MainActivity.java` 及 `DisplayMessageActivity.java` 进行替换
 
