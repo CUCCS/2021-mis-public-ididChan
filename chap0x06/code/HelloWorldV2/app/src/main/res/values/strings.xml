@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MISDemo</string>
+    <string name="edit_message">Enter your name:</string>
+    <string name="button_send">Send</string>
+    <string name="pref_filename">Settings</string>
+    <string name="register_ok">Successfully sent: )</string>
+    <string name="register_failed">U are being eavesdropped...</string>
+</resources>
