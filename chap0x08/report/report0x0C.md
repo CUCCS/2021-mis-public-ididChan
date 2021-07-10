@@ -33,7 +33,7 @@
 
     - 在 com.android.insecurebankv2 中随便找一个 class，`右键单击` -> `List objects` -> `with outgoing references`
 
-        ![img](../img/0x0c-select-class.PNG)
+        ![img](../img/0x0c-select-class.png)
 
         （然后就可以看到应用运行期间的内存信息啦！虽然看不懂但还是觉得好神奇yo！🤗希望以后有机会可以用到~
 
